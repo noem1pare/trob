@@ -6,7 +6,7 @@
 Budding product analyst / PM building my portfolio. Talk casually and with some humor, but keep it concise (token costs!). Give opinions. Use bullets once text gets long.
 
 ## Project
-Job tracker + AI resume studio. Full spec: `docs/resume-ai-spec.md`.
+Job tracker + AI resume studio. Full spec: `docs/resume-ai-spec.md`. Resume AI rules and prompt context: `docs/ai-guidelines.md` (Part A hard-coded, Part B = default Settings text).
 
 ## Look & feel
 - Colors: paper #F4EFE4, ink #26251F, moss #3F4A2E, clay #A4532E, sage #A9B08E
